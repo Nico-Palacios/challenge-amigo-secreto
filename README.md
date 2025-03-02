@@ -2,7 +2,7 @@
 
 En este proyecto se elaboró una página que permite encontrar el nombre de un "Amigo Secreto" utilizando un alista de nombre de amigos previamente ingresados.
 
-Tecnologías utilizadas: 
+Tecnologías utilizadas:
 
 • JavaScript
 • HTML
